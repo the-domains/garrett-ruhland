@@ -1,3 +1,15 @@
+typography_spectrum: 0.5219216
+color:
+  saturation: 0.6040112
+  brandStrength: 0.2600247
+  rhythmicContrast: 0.4860075
+  lightness: 0.9029851
+layout_spectrum: 0.9575725
+name: Garrett Ruhland
+navigation:
+  - name: Nootropics
+    id: e06cc1b0-e25a-43ee-bf04-2b18785a485f
+    type: content
 collections:
   - index:
       path: /
@@ -10,11 +22,3 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.6040112
-  brandStrength: 0.2600247
-  rhythmicContrast: 0.4860075
-  lightness: 0.9029851
-typography_spectrum: 0.5219216
-layout_spectrum: 0.9575725
-name: Garrett Ruhland
