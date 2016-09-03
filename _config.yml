@@ -13,6 +13,9 @@ navigation:
   - name: Professional Experience
     id: 67c80820-3ac3-4bc5-9e52-c96ae975a176
     type: content
+  - name: About Garrett
+    id: 9cbf9ab6-c684-4d77-b56d-e48de3cd3720
+    type: content
 collections:
   - index:
       path: /
