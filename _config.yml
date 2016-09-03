@@ -10,6 +10,9 @@ navigation:
   - name: Nootropics
     id: e06cc1b0-e25a-43ee-bf04-2b18785a485f
     type: content
+  - name: Professional Experience
+    id: 67c80820-3ac3-4bc5-9e52-c96ae975a176
+    type: content
 collections:
   - index:
       path: /
